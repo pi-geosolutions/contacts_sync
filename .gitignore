@@ -2,4 +2,5 @@
 .idea
 .venv
 
-src/build
+*.egg-info/
+**/__pycache__/
