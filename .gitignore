@@ -2,5 +2,11 @@
 .idea
 .venv
 
+# latex temp files
+docs/**/*.aux
+docs/**/*.log
+docs/**/*.out
+docs/**/*.synctex.gz
+
 *.egg-info/
 **/__pycache__/
